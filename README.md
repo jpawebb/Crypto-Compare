@@ -1,2 +1,4 @@
 # Crypto_Link
-CryptoCompare
+For CryptoCompare,
+
+Written in a notepad IDE 
